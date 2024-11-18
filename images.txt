@@ -2,7 +2,7 @@ nginx
 #支持私库
 nginxproxy/nginx-proxy:latest
 nginxproxy/acme-companion:latest
-ghost:latest
+ghost:5.99
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
